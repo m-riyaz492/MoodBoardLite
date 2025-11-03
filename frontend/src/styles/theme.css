@@ -1,0 +1,12 @@
+.light {
+  --bg: #f2f4f8;
+  --card: rgba(255, 255, 255, 0.9);
+  --text: #1c1e21;
+  --muted: #6b7280;
+  --primary: #5b6cff;
+  --accent: #ff6399;
+  --success: #1db954;
+  --danger: #e74c3c;
+  --border: rgba(0, 0, 0, 0.08);
+  --shadow: rgba(0, 0, 0, 0.1);
+}
